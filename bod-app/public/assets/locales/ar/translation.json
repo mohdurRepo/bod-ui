@@ -1,0 +1,16 @@
+{
+    "lang": "اللغة",
+    "ar" : "ar",
+    "en" : "en",
+    "arabic" : "العربية",
+    "english" : "الإنجليزية",
+    "country_code_ar" : "sa",
+    "country_code_gb" : "gb",
+    "dir_rtl" : "rtl",
+    "app_title" : "بوابة كبار التنفيذيين",
+    "email":"الإيميل",
+    "password":"كلمة المرور",
+    "forgot_password":"نسيت كلمة المرور؟",
+    "login":"تسجيل الدخول", 
+    "send": "إرسال"
+}

@@ -1,0 +1,16 @@
+{
+    "lang": "Language",
+    "ar" : "ar",
+    "en" : "en",
+    "arabic" : "Arabic",
+    "english" : "English",
+    "country_code_ar" : "sa",
+    "country_code_gb" : "gb",
+    "dir_ltr" : "ltr",
+    "app_title" : "Board of Director Portal",
+    "email":"Email",
+    "password":"Password",
+    "forgot_password":"Forgot Password?",
+    "login":"Login",
+    "send": "Send"
+}

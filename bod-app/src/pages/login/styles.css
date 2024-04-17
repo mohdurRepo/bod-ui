@@ -1,0 +1,36 @@
+.layout {
+    background-image: url('./assets/images/bg.png');
+    background-size: "cover";
+  }
+  
+  .container {
+    max-width: 508px;
+    margin: auto;
+  }
+  
+  .title {
+    text-align: center;
+    color: #626262;
+    font-size: 30px;
+    letter-spacing: -0.04em;
+    margin-top: 20px;
+  }
+  
+  .imageContainerStart {
+    display: inline-flex;
+    align-items: start;
+    justify-content: start;
+    margin-top: 30px;
+    width: 50%;
+    
+  }
+
+  .imageContainerEnd {
+    display: inline-flex;
+    align-items: end;
+    justify-content: end;
+    margin-top: 10px;
+    width: 50%;
+    position: relative;
+    bottom: 25px;
+  }
