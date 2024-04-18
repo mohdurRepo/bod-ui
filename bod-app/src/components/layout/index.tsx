@@ -10,7 +10,26 @@ export const Layout = ({ children }: React.PropsWithChildren) => {
       <ThemedLayoutV2
         Header={Header}
         Title={(titleProps) => {
-          return <ThemedTitleV2 {...titleProps} text="Refine" />;
+          return (
+            <ThemedTitleV2
+              {...titleProps}
+              text=""
+              icon={
+                <img
+                  src="./assets/images/saudi-exchange.jpg"
+                  alt="Saudi Exchange Logo"
+                  width={120}
+                  style={{
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    position: "absolute",
+                    top: "10px",
+                  }}
+                />
+              }
+            />
+          );
         }}
       >
         {children}

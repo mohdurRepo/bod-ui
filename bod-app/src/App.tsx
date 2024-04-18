@@ -21,6 +21,9 @@ import { initReactI18next, useTranslation } from "react-i18next";
 import HttpApi from "i18next-http-backend";
 import I18nextBrowserLanguageDetector from "i18next-browser-languagedetector";
 import { Cookies } from "react-cookie";
+import "./App.css";
+import Form3 from "./pages/form3/list";
+import Create from "./pages/form3/create";
 const cookie = new Cookies();
 i18next
   .use(initReactI18next)
@@ -85,6 +88,10 @@ function App() {
                 }
               >
                 <Route index element={<Home />} />
+                <Route path="/form3">
+                  <Route index element={<Form3 />} />
+                  <Route path="new" element={<Create />} />
+                </Route>
               </Route>
             </Routes>
             <RefineKbar />

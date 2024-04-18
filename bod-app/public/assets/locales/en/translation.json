@@ -12,5 +12,19 @@
     "password":"Password",
     "forgot_password":"Forgot Password?",
     "login":"Login",
-    "send": "Send"
+    "send": "Send",
+    "dashboard":"Dashboard",
+    "administration":"Administration",
+    "setup_forms":"Setup Forms & User Guide",
+    "menu_managment":"Menu Management",
+    "reports":"Reports",
+    "submission_report":"Submission Reports",
+    "business_report":"Business Reports",
+    "comperhensive_report":"Comperhensive Reports",
+    "user_guide":"User Guide",
+    "user_forms":"Forms",
+    "form3_filling":"Form3",
+    "draft":"Draft",
+    "aprroved":"Approved",
+    "under_review":"Pending"
 }

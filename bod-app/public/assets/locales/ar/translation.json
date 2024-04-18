@@ -12,5 +12,19 @@
     "password":"كلمة المرور",
     "forgot_password":"نسيت كلمة المرور؟",
     "login":"تسجيل الدخول", 
-    "send": "إرسال"
+    "send": "إرسال",
+    "dashboard":"لوحة المستخدم",
+    "administration":"إدارة النظام",
+    "menu_managment":"إدارة القائمة",
+    "setup_forms":"إعداد دليل المستخدم والنماذج",
+    "reports":"التقارير",
+    "submission_report":"التقارير المدخله",
+    "business_report":"تقارير المستخدمين",
+    "comperhensive_report":"التقرير الشامل",
+    "user_guide":"دليل المستخدم",
+    "user_forms":"النماذج",
+    "form3_filling":"نموذج 3",
+    "draft":"مسودة",
+    "aprroved":"نماذج تم الموافقة عليها",
+    "under_review":"تحت المراجعة"
 }
